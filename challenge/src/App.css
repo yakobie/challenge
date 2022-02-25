@@ -1,0 +1,27 @@
+.searchbox {
+  padding: 20px;
+  background-color: #202225;
+  color: #fcfcfc;
+}
+
+body {
+  background-color: #36393f;
+}
+
+table {
+  border-spacing: 0;
+  border: 1px solid black;
+}
+th {
+  margin: 0;
+  padding: 0.5rem;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+
+}
+td {
+  margin: 0;
+  padding: 0.5rem;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
